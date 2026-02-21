@@ -15,4 +15,4 @@ Este es un proyecto de un **juego de Pac-Man** en consola, desarrollado en **Jav
    Si deseas trabajar con el código localmente, primero clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/PacMan_Java.git
+ [  git clone https://github.com/tu_usuario/PacMan_Java.git](https://github.com/Miguel-Cancax/-IPC1-SECCI-N-_2S2026.git)
